@@ -14,9 +14,20 @@
 * [5. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-Your team of environmental consultants and data scientists is tasked by a coalition of agricultural stakeholders to analyse and predict CO2 emissions from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. Your project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), you will explore various emission sources, perform regression analysis to predict temperature variations, and offer actionable insights for the stakeholders.
+This project aims to analyze and predict CO2 emissions from the agri-food sector, focusing on understanding the impact of agricultural activities on climate change. Our analysis covers various emission sources and utilizes a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC).
 
-By the end of this project, you will have a thorough understanding of the impact of agricultural activities on CO2 emissions and climate change. Your findings and recommendations will contribute to the ongoing efforts to promote sustainability within the agri-food sector, providing valuable insights for the stakeholders involved in this initiative.
+Objectives:
+- Analyze CO2 emissions from agricultural activities: Specifically examine emission sources and trends within the agri-food sector.
+- Predict temperature variations: Perform regression analysis to understand the relationship between agricultural activities and temperature changes.
+- Identify key factors driving emissions: Investigate potential factors contributing to CO2 emissions in the agri-food sector.
+- Provide actionable insights: Offer recommendations for sustainable practices to stakeholders, including policymakers, agricultural businesses, and environmental organizations.
+  
+Purpose:
+- Understand the impact of agriculture on climate change: Gain a thorough understanding of how agricultural activities contribute to CO2 emissions.
+- Support sustainability efforts: Contribute to ongoing initiatives promoting sustainable practices within the agri-food sector.
+- Inform decision-making: Provide valuable insights to help stakeholders make informed decisions related to sustainability and climate action.
+  
+By the end of this project, we aim to provide a comprehensive understanding of the impact of agricultural activities on CO2 emissions and climate change, offering valuable recommendations for promoting sustainability within the agri-food sector.
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 Emissions from the agri-food sector play a crucial role in climate change, as they represent a significant share of global annual emissions. The dataset highlights the substantial contribution of the various sources of emissions. Therefore, it is essential to understand and address the environmental impact of the agri-food industry to mitigate climate change and promote sustainable practices within this sector.
@@ -92,10 +103,14 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
+| [Justin Tshifaro](https://github.com/justin9503)                                                | njtshifaro@gmail.com
+| [Veronica Sihlangu](https://github.com/Sihlangu01)                                                                               | Veronicahsihlangu@gmail.com
+| [Mmapaseka Moswazi](https://github.com/)                                                                            | moswazipaseka@gmail.com
+| [Zwiitwaho Mugodo](https://github.com/ZweeteeM)                                                | Mugodozwiitwaho@gmail.com
+| [Nkhadimeng Nkhubalale](https://github.com/)                                                | physimanuel@gmail.com
+| [Akhona Nzama](https://github.com/)                                                | sthokonzama@gmail.com
+| [Phumzile Sibiya](https://github.com/PHUMZILE)                                                | sibiyaphumzile9@gmail.com
+
 
 
 
