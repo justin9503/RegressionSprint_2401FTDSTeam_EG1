@@ -79,7 +79,7 @@ To carry out all the objectives for this repo, the following necessary dependenc
 
 ## 4. Environment <a class="anchor" id="environment"></a>
 
-It's highly recommended to use a virtual environment for your projects, there are many ways to do this; we've outlined one such method below. Make sure to regularly update this section. This way, anyone who clones your repository will know exactly what steps to follow to prepare the necessary environment. The instructions provided here should enable a person to clone your repo and quickly get started.
+Below we have outlined how we set up the virtual environment. The instructions below will help you clone the repository and quickly get started.
 
 ### Create the new evironment - you only need to do this once
 
