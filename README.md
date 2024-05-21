@@ -105,16 +105,10 @@ pip install -r requirements.txt
 |---------------------------------------------------------------------------------------------|--------------------             
 | [Justin Tshifaro](https://github.com/justin9503)                                                | njtshifaro@gmail.com
 | [Veronica Sihlangu](https://github.com/Sihlangu01)                                                                               | Veronicahsihlangu@gmail.com
-| [Mmapaseka Moswazi](https://github.com/)                                                                            | moswazipaseka@gmail.com
+| [Mmapaseka Moswazi](https://github.com/Mmapaseka)                                                                            | moswazipaseka@gmail.com
 | [Zwiitwaho Mugodo](https://github.com/ZweeteeM)                                                | Mugodozwiitwaho@gmail.com
-| [Nkhadimeng Nkhubalale](https://github.com/)                                                | physimanuel@gmail.com
-| [Akhona Nzama](https://github.com/)                                                | sthokonzama@gmail.com
+| [Nkhadimeng Nkhubalale](https://github.com/Nkhubalale)                                                | physimanuel@gmail.com
+| [Akhona Nzama](https://github.com/AkhonaNzama01)                                                | sthokonzama@gmail.com
 | [Phumzile Sibiya](https://github.com/PHUMZILE)                                                | sibiyaphumzile9@gmail.com
 
 
-
-
-#### Additional Resources to create a README file:
-- [Make a README](https://www.makeareadme.com/)
-- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
