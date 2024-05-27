@@ -18,7 +18,6 @@ This project aims to analyze and predict CO2 emissions from the agri-food sector
 
 Objectives:
 - Analyze CO2 emissions from agricultural activities: Specifically examine emission sources and trends within the agri-food sector.
-- Predict temperature variations: Perform regression analysis to understand the relationship between agricultural activities and temperature changes.
 - Identify key factors driving emissions: Investigate potential factors contributing to CO2 emissions in the agri-food sector.
 - Provide actionable insights: Offer recommendations for sustainable practices to stakeholders, including policymakers, agricultural businesses, and environmental organizations.
   
@@ -65,8 +64,6 @@ Emissions from the agri-food sector play a crucial role in climate change, as th
  
 
 CO2 is recorded in kilotonnes (kt): 1 kt represents 1000 kg of CO2.
-
-The feature "Average Temperature C°", represents the average yearly temperature increase. For example, if it is 0.12, it means that the temperature in that specific location increased by 0.12 degrees Celsius.
 
 Forestland is the only feature that exhibits negative emissions due to its role as a carbon sink. Through photosynthesis, forests absorb and store carbon dioxide, effectively removing it from the atmosphere. Sustainable forest management, along with afforestation and reforestation efforts, further contribute to negative emissions by increasing carbon sequestration capacity.
 
