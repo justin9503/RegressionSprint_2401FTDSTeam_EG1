@@ -14,19 +14,22 @@
 * [5. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-This project aims to analyze and predict CO2 emissions from the agri-food sector, focusing on understanding the impact of agricultural activities on climate change. Our analysis covers various emission sources and utilizes a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC).
+This project aims to analyze and predict CO2 emissions from the agri-food sector, focusing on understanding the impact of agricultural activities on climate change and temperature variations. Our analysis covers various emission sources and utilizes a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC).
 
 Objectives:
-- Analyze CO2 emissions from agricultural activities: Specifically examine emission sources and trends within the agri-food sector.
-- Identify key factors driving emissions: Investigate potential factors contributing to CO2 emissions in the agri-food sector.
-- Provide actionable insights: Offer recommendations for sustainable practices to stakeholders, including policymakers, agricultural businesses, and environmental organizations.
-  
+
+  - Analyze CO2 emissions from agricultural activities: Specifically examine emission sources and trends within the agri-food sector.
+  - Identify key factors driving emissions: Investigate potential factors contributing to CO2 emissions in the agri-food sector.
+  - Predict temperature variations: Perform regression analysis to forecast how CO2 emissions influence temperature changes.
+  - Provide actionable insights: Offer recommendations for sustainable practices to stakeholders, including policymakers, agricultural       businesses, and environmental organizations.
+
 Purpose:
-- Understand the impact of agriculture on climate change: Gain a thorough understanding of how agricultural activities contribute to CO2 emissions.
-- Support sustainability efforts: Contribute to ongoing initiatives promoting sustainable practices within the agri-food sector.
-- Inform decision-making: Provide valuable insights to help stakeholders make informed decisions related to sustainability and climate action.
-  
-By the end of this project, we aim to provide a comprehensive understanding of the impact of agricultural activities on CO2 emissions and climate change, offering valuable recommendations for promoting sustainability within the agri-food sector.
+
+  - Understand the impact of agriculture on climate change: Gain a thorough understanding of how agricultural activities contribute to       CO2 emissions and temperature variations.
+  - Support sustainability efforts: Contribute to ongoing initiatives promoting sustainable practices within the agri-food sector.
+  - Inform decision-making: Provide valuable insights to help stakeholders make informed decisions related to sustainability and climate     action.
+
+By the end of this project, we aim to provide a comprehensive understanding of the impact of agricultural activities on CO2              emissions and climate change, offering valuable recommendations for promoting sustainability within the agri-food sector, and            predicting their effects on temperature.
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 Emissions from the agri-food sector play a crucial role in climate change, as they represent a significant share of global annual emissions. The dataset highlights the substantial contribution of the various sources of emissions. Therefore, it is essential to understand and address the environmental impact of the agri-food industry to mitigate climate change and promote sustainable practices within this sector.
@@ -64,6 +67,8 @@ Emissions from the agri-food sector play a crucial role in climate change, as th
  
 
 CO2 is recorded in kilotonnes (kt): 1 kt represents 1000 kg of CO2.
+
+The feature "Average Temperature C°", represents the average yearly temperature increase. For example, if it is 0.12, it means that the temperature in that specific location increased by 0.12 degrees Celsius.
 
 Forestland is the only feature that exhibits negative emissions due to its role as a carbon sink. Through photosynthesis, forests absorb and store carbon dioxide, effectively removing it from the atmosphere. Sustainable forest management, along with afforestation and reforestation efforts, further contribute to negative emissions by increasing carbon sequestration capacity.
 
